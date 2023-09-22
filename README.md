@@ -1,7 +1,8 @@
 <h1 align="center">WhisperX</h1>
 
 ## Faster Implementation of [Whisper X](https://github.com/m-bain/whisperX/tree/main)
-### Tested on Python 3.11.0 and Python 3.10.12 
+
+Tested on Python 3.11.0 and Python 3.10.12 
 
 If wishing to modify this package, clone and install in editable mode:
 ```
