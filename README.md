@@ -7,7 +7,7 @@ Tested on Python 3.11.0 and Python 3.10.12
 If wishing to modify this package, clone and install in editable mode:
 ```
 $ git clone https://github.com/EmanuelRiquelme/fast_whisperx
-$ cd whisperX
+$ cd fast_whisperx
 $ pip install -e .
 ```
 
