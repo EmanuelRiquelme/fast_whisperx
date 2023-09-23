@@ -1,5 +1,5 @@
 torch==2.0.0
-torchvision==0.13.1
+torchvision
 torchaudio==2.0.1
 faster-whisper
 transformers
